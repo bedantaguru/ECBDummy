@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="22px" viewBox="0 0 24 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.592157 0 0 0 0 0.776471 0 0 0 0 0.976471 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Homepage-dashboard-quick-info-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V2-with-image-(3-column)-Copy" transform="translate(-755.000000, -784.000000)">
+            <g id="Group-14" transform="translate(595.254237, 573.000000)">
+                <g id="Group" transform="translate(19.745763, 173.000000)" filter="url(#filter-1)">
+                    <g transform="translate(140.000000, 38.000000)">
+                        <path d="M12,3.61428571 L14.2702703,8.01428571 L14.5945946,8.8 L15.4054054,8.95714286 L20.4324324,9.58571429 L16.8648649,12.8857143 L16.2162162,13.5142857 L16.3783784,14.3 L17.1891892,19.1714286 L12.6486486,16.9714286 L12,16.5 L11.1891892,16.8142857 L6.64864865,19.0142857 L7.45945946,14.1428571 L7.62162162,13.3571429 L7.13513514,12.8857143 L3.56756757,9.42857143 L8.59459459,8.8 L9.40540541,8.64285714 L9.72972973,7.85714286 L12,3.61428571 L12,3.61428571 Z M12,0 L8.27027027,7.22857143 L0,8.32857143 L6,13.9857143 L4.7027027,22 L12,18.2285714 L19.4594595,22 L18,13.9857143 L24,8.32857143 L15.7297297,7.22857143 L12,0 Z" id="Fill" fill="#A8A8A8" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
