@@ -15,4 +15,5 @@ Title
 \examples{
 # 1+1 = 2
 sin(2)
+ok <- 140
 }

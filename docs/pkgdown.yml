@@ -2,7 +2,7 @@ pandoc: 3.1.1
 pkgdown: 2.0.7
 pkgdown_sha: ~
 articles: {}
-last_built: 2023-08-02T18:31Z
+last_built: 2023-08-02T18:34Z
 urls:
   reference: https://bedantaguru.github.io/ECBDummy/reference
   article: https://bedantaguru.github.io/ECBDummy/articles
